@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imamali Shukurlu</h1>
-<h3 align="center">A passionate fullstack developer from Azerbaijan.</h3>
+<h3 align="center">A passionate fullstack developer from Azerbaijan, Baku.</h3>
 
 <p align="left"> <a href="https://twitter.com/imamali_1997" target="blank"><img src="https://img.shields.io/twitter/follow/imamali_1997?logo=twitter&style=for-the-badge" alt="imamali_1997" /></a> </p>
 
